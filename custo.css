@@ -4865,6 +4865,7 @@ figcaption {
   width: 100%;
   max-width: 119px;
   flex: 0 auto;
+  padding-top: 10p;
   margin-top: 10px;
   margin-bottom: 50px;
   padding-bottom: 0;
